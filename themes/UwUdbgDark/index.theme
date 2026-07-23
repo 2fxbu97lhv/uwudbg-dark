@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Dark
+Comment=Dark UwUdbg theme less blinding still kawaii
+Directories=icons
+Inherits=Default
+
+[icons]
+Size=16
+Type=Scalable
