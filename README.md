@@ -1,3 +1,4 @@
+<img width="3840" height="2064" alt="image" src="https://github.com/user-attachments/assets/e1a133a1-6827-4611-b31b-eb3e62805dbf"/>
 [![Chat](https://img.shields.io/badge/chat-Discord-blueviolet)](https://discord.gg/oalabs) [![Support](https://img.shields.io/badge/Support-Patreon-FF424D)](https://www.patreon.com/oalabs)
 
 # The best theme for x64dbg!
